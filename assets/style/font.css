@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('./font.css/');
+    src: url('./font.css/?#iefix') format('embedded-opentype'),
+        url('./font.css/BebasNeue-Regular.woff2') format('woff2'),
+        url('./font.css/BebasNeue-Regular.woff') format('woff'),
+        url('./font.css/BebasNeue-Regular.ttf') format('truetype'),
+        url('./font.css/BebasNeue-Regular.svg#BebasNeue-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./font.css/OpenSans-Medium.eot');
+    src: url('./font.css/OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./font.css/OpenSans-Medium.woff2') format('woff2'),
+        url('./font.css/OpenSans-Medium.woff') format('woff'),
+        url('./font.css/OpenSans-Medium.ttf') format('truetype'),
+        url('./font.css/OpenSans-Medium.svg#OpenSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./font.css/OpenSans-Regular.eot');
+    src: url('./font.css/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./font.css/OpenSans-Regular.woff2') format('woff2'),
+        url('OpenSans-Regular.woff') format('woff'),
+        url('./font.css/OpenSans-Regular.ttf') format('truetype'),
+        url('./font.css/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./font.css/OpenSans-Bold.eot');
+    src: url('./font.css/OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./font.css/OpenSans-Bold.woff2') format('woff2'),
+        url('./font.css/OpenSans-Bold.woff') format('woff'),
+        url('./font.css/OpenSans-Bold.ttf') format('truetype'),
+        url('./font.css/OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
